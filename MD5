@@ -1,0 +1,11 @@
+33c849e234a28cba72724894a8852b54 *DESCRIPTION
+87f8ce00f2ca188a5666b7eab8519f9c *NAMESPACE
+d0d8f298a573afc62a78f9a03d6361d7 *R/X1X2BFtable.R
+ad0869fd81502dba36d1cfdd5d391b4e *R/bayesNI.R
+dc6ccbd14dc3e61f472b39d0a471e858 *R/calcBF.R
+50a7b0b618e783d4f2f517171619c86a *R/mx.R
+8141fa38ab16743499b7b55a8711f2bd *R/noninform_prior.R
+7b4cc690a91d4cfbc1cdb6db0db54ebb *R/postNullFun.R
+578d475530fcba7f5cbb4e08b94efda2 *R/prior_prob.R
+a9d192a02982625070a7277face9d787 *man/BayesNI-package.Rd
+913b0a042caa8d2b9dee0b01b564fd3f *man/bayesNI.Rd
